@@ -3,7 +3,6 @@
 
 ##1.两数之和
 
-![image-20210530223300067](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210530223300067.png)
 
-![image-20210530223337550](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210530223337550.png)
 
+![image-20210530223337550](.\images\image-20210530223337550.png)![image-20210530223300067](.\images\image-20210530223300067.png)
